@@ -30,14 +30,14 @@ View Stack w/: `zenml stack list`
 
 Our Steps:
 1. Load Data
-   2. Ingest Data from Host
-   3. Create Local dir for Data
+   - - 1. Ingest Data from Host
+   - - 2. Create Local dir for Data
 2. Train Model and store Model Artifact
-   3. Load Data
-   4. Split Data into train and test
-   5. Train Regressors*
-   6. Set Experiment Tracking parameters for ZenML/Mlflow
-   7. Export Model
+   - - 1. Load Data
+   - - 2. Split Data into train and test
+   - - 3. Train Regressors*
+   - - 4. Set Experiment Tracking parameters for ZenML/Mlflow
+   - - 5. Export Model
 3. Promotion Logic (Deploys Model)
 4. User Interface - Streamlit
 
