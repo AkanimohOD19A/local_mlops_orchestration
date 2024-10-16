@@ -1,0 +1,33 @@
+[2024-10-16 09:59:57 UTC] Step promote_model has started.
+
+[2024-10-16 09:59:57 UTC] Fetching Model: salary_prediction_regression-model by Tag: staging
+
+[2024-10-16 09:59:57 UTC] Latest model with 'staging' tag:
+[2024-10-16 09:59:57 UTC] Version: 2
+[2024-10-16 09:59:57 UTC] Tags: {'staging': '6311.262456108905'}
+[2024-10-16 09:59:57 UTC] Run ID: eb019c27314d4642aa0df7447dd4f09e
+[2024-10-16 09:59:57 UTC] Staged Value: 6311.262456108905
+[2024-10-16 09:59:57 UTC] 6311.262456108905
+[2024-10-16 09:59:57 UTC] Completed Fetch - Loaded Model: salary_prediction_regression-model | 2 with RMSE: 6311.262456108905
+
+[2024-10-16 09:59:57 UTC] Model mlflow.pyfunc.loaded_model:
+  artifact_path: sklearn-model
+  flavor: mlflow.sklearn
+  run_id: eb019c27314d4642aa0df7447dd4f09e
+ 
+RMSE: 6311.262456108905 
+Version: 2
+
+[2024-10-16 09:59:57 UTC] Fetching Model: salary_prediction_regression-model by Tag: production
+
+[2024-10-16 09:59:57 UTC] No model found with 'production' tag
+[2024-10-16 09:59:57 UTC] Error fetching  previous production model: cannot unpack non-iterable NoneType object
+
+[2024-10-16 09:59:57 UTC] Attempting: Auto Promotion of Staging to Production
+
+[2024-10-16 09:59:57 UTC] Completed: Auto Promotion of Staging to Production
+
+[2024-10-16 09:59:57 UTC] Step promote_model has finished in 1.165s.
+
+[2024-10-16 09:59:57 UTC] Step promote_model completed successfully.
+

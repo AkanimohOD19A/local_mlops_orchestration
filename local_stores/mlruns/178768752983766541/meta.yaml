@@ -1,0 +1,6 @@
+artifact_location: file:C:\Users\buasc\PycharmProjects\mlops_mastery\local_stores\mlruns/178768752983766541
+creation_time: 1729071050408
+experiment_id: '178768752983766541'
+last_update_time: 1729071050408
+lifecycle_stage: active
+name: simple_ml_pipeline

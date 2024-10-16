@@ -1,0 +1,35 @@
+[2024-10-16 10:01:03 UTC] Step promote_model has started.
+
+[2024-10-16 10:01:03 UTC] Fetching Model: salary_prediction_regression-model by Tag: staging
+
+[2024-10-16 10:01:03 UTC] Latest model with 'staging' tag:
+[2024-10-16 10:01:03 UTC] Version: 3
+[2024-10-16 10:01:03 UTC] Tags: {'staging': '6302.016142341539'}
+[2024-10-16 10:01:03 UTC] Run ID: dc27a9ffa02c4ae6a88dc14eacb84a97
+[2024-10-16 10:01:03 UTC] Staged Value: 6302.016142341539
+[2024-10-16 10:01:03 UTC] 6302.016142341539
+[2024-10-16 10:01:03 UTC] Completed Fetch - Loaded Model: salary_prediction_regression-model | 3 with RMSE: 6302.016142341539
+
+[2024-10-16 10:01:03 UTC] Model mlflow.pyfunc.loaded_model:
+  artifact_path: sklearn-model
+  flavor: mlflow.sklearn
+  run_id: dc27a9ffa02c4ae6a88dc14eacb84a97
+ 
+RMSE: 6302.016142341539 
+Version: 3
+
+[2024-10-16 10:01:03 UTC] Fetching Model: salary_prediction_regression-model by Tag: production
+
+[2024-10-16 10:01:03 UTC] Latest model with 'production' tag:
+[2024-10-16 10:01:03 UTC] Version: 2
+[2024-10-16 10:01:03 UTC] Tags: {'production': '6311.262456108905'}
+[2024-10-16 10:01:03 UTC] Run ID: eb019c27314d4642aa0df7447dd4f09e
+[2024-10-16 10:01:03 UTC] Staged Value: 6311.262456108905
+[2024-10-16 10:01:03 UTC] 6311.262456108905
+[2024-10-16 10:01:03 UTC] Completed Fetch - Loaded Model: salary_prediction_regression-model | 2 with RMSE: 6311.262456108905
+
+[2024-10-16 10:01:03 UTC] Promoted staging model to production. Archived previous production model.
+[2024-10-16 10:01:03 UTC] Step promote_model has finished in 1.228s.
+
+[2024-10-16 10:01:03 UTC] Step promote_model completed successfully.
+

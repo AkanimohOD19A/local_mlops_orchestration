@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\buasc\PycharmProjects\mlops_mastery\local_stores\mlruns/178768752983766541/eb019c27314d4642aa0df7447dd4f09e/artifacts
+end_time: 1729072795835
+entry_point_name: ''
+experiment_id: '178768752983766541'
+lifecycle_stage: active
+run_id: eb019c27314d4642aa0df7447dd4f09e
+run_name: simple_ml_pipeline-2024_10_16-09_59_43_986859
+run_uuid: eb019c27314d4642aa0df7447dd4f09e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729072785806
+status: 3
+tags: []
+user_id: LENOVO

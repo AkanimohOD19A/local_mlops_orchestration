@@ -1,0 +1,22 @@
+[2024-10-16 10:01:01 UTC] Caching disabled explicitly for train_model.
+
+[2024-10-16 10:01:01 UTC] Step train_model has started.
+
+[2024-10-16 10:01:01 UTC] Registered model 'salary_prediction_regression-model' already exists. Creating a new version of this model...
+[2024-10-16 10:01:01 UTC] Created version '3' of model 'salary_prediction_regression-model'.
+[2024-10-16 10:01:01 UTC] Run ID: dc27a9ffa02c4ae6a88dc14eacb84a97, Model Version: 3
+
+[2024-10-16 10:01:01 UTC] New model version 3 was created.
+
+[2024-10-16 10:01:01 UTC] Model version 2 has been set to archived.
+
+[2024-10-16 10:01:01 UTC] Successfully Trained decisionTree 
+and stored trained model to Model Register: ./model_dir\6302.016142341539_decisionTree_2024-10-16.pkl
+
+[2024-10-16 10:01:01 UTC] C:\Users\buasc\PycharmProjects\zenml_mastery2\mlops\lib\site-packages\zenml\integrations\mlflow\experiment_trackers\mlflow_experiment_tracker.py:255: FutureWarning: ``mlflow.gluon.autolog`` is deprecated since 2.5.0. This method will be removed in a future release.
+  module.autolog(disable=True)
+
+[2024-10-16 10:01:01 UTC] Step train_model has finished in 10.809s.
+
+[2024-10-16 10:01:01 UTC] Step train_model completed successfully.
+

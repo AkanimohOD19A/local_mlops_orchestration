@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1729072794442
+current_stage: None
+description: null
+last_updated_timestamp: 1729072794442
+name: salary_prediction_regression-model
+run_id: eb019c27314d4642aa0df7447dd4f09e
+run_link: null
+source: file:C:\Users\buasc\PycharmProjects\mlops_mastery\local_stores\mlruns/178768752983766541/eb019c27314d4642aa0df7447dd4f09e/artifacts/sklearn-model
+status: READY
+status_message: null
+storage_location: file:C:\Users\buasc\PycharmProjects\mlops_mastery\local_stores\mlruns/178768752983766541/eb019c27314d4642aa0df7447dd4f09e/artifacts/sklearn-model
+user_id: null
+version: 2
