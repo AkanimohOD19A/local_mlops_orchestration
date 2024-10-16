@@ -41,9 +41,15 @@ Our Steps:
 3. Promotion Logic (Deploys Model)
 4. User Interface - Streamlit
 
+![image](https://github.com/user-attachments/assets/798922d6-c6fe-453a-86e2-0b26ad776588)
+
+![image](https://github.com/user-attachments/assets/a542002b-a786-445b-979e-b5566b45c3f5)
 
 RUN:
 `python run_pipeline.py -m <model_name>`
+
 Streamlit:
 `streamlit run app.py`
+![image](https://github.com/user-attachments/assets/897521b3-8c7a-4599-95a1-fa885edcb476)
+
 
