@@ -1,3 +1,12 @@
+## Local MLOPs: ZenML, MLFlow and Streamlit
+
+A simple Proof-Of-Concept that explores an orchestration pipeline that builds a ML Model and model deployment based off a promotion logic - Machine Learning Development and Ops - then retrieved for User Inference.
+
+Libraries:
+1. ZenML for orchestration
+2. MLFlow for handling tag/aliasing deployed models
+3. Streamlit for User interface
+
 Install zenml:
 ```commandline
 pip install "zenml[server]"
