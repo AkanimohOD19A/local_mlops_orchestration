@@ -7,6 +7,10 @@ Libraries:
 2. MLFlow for handling tag/aliasing deployed models
 3. Streamlit for User interface
 
+## Data
+Dataset on Salary earnings and it is publicly hosted on github.
+
+## Required Steps (ZenML Set-up)
 Install zenml:
 ```commandline
 pip install "zenml[server]"
